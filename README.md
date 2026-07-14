@@ -1,8 +1,23 @@
-# IMDb Movie Review Sentiment Analysis
+# 🎬 IMDb Movie Review Sentiment Analysis
 
-> End-to-end NLP project fine-tuning a DistilBERT transformer to classify movie-review sentiment with an interactive Streamlit demo. Built with PyTorch and Hugging Face Transformers.
+> **End-to-end NLP project** that fine-tunes a **DistilBERT** transformer to classify movie-review sentiment as *positive* or *negative*, served through a sleek **Streamlit** web app. Built with **PyTorch** + **Hugging Face Transformers**, fully CPU-friendly and reproducible.
 
 A deep learning project that performs sentiment classification on movie reviews using DistilBERT transformers. Built with PyTorch and Hugging Face Transformers for portfolio demonstration.
+
+---
+
+## ✨ Project Showcase
+
+Turn raw text into instant, confident predictions. This project takes you from a 50,000-review IMDb dataset all the way to a live, interactive demo — no GPU required.
+
+- 🧠 **State-of-the-art architecture** — DistilBERT, a lightweight, 60%-faster cousin of BERT that keeps ~95% of its accuracy.
+- 📊 **Real dataset** — 50K labeled IMDb reviews, perfectly balanced between positive and negative classes.
+- 🚀 **Zero-training demo** — ships with a pre-trained model so visitors can analyze reviews instantly.
+- 🖥️ **Interactive UI** — a polished Streamlit app with confidence scores and probability breakdowns.
+- 🧩 **Production-style code** — modular, config-driven `src/` package with clean separation of concerns.
+- 📓 **Full transparency** — exploratory data analysis and training walkthroughs in Jupyter notebooks.
+
+Whether you're a recruiter, fellow engineer, or curious learner, this repo shows how modern NLP pipelines are built — from tokenization to deployment.
 
 ## 🎯 Project Overview
 
