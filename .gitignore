@@ -36,12 +36,14 @@ ENV/
 *.ckpt
 
 # Models directory
-models/
+# models/
 
 # Data
-data/
-*.csv
-*.tsv
+# data/
+# *.csv
+# *.tsv
+# Keep IMDB Dataset.csv in repository
+!data/IMDB\ Dataset.csv
 
 # Results
 results/
